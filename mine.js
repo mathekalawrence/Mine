@@ -103,6 +103,9 @@
 		arr1.push(result)
 	}
 	console.log(arr1);
+console.log("Here we come");
+console.log("Yes...it is already a done deal");
+console.log('Always pushing beyond the limits');
 	
 
 
