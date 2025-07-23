@@ -110,7 +110,7 @@ console.log("Here we come");
 console.log("Yes...it is already a done deal");
 console.log('Always pushing beyond the limits');
 console.log("Here we go");
-console.log
+console.log('Let us embrace it fully');
 	
 
 
