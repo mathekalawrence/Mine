@@ -96,6 +96,7 @@ console.log("Gone are the days when");
 
 	let mine=prompt("How can you rate yourself so far?")
 	console.log('My ratings range at', mine);
+        console.log('here we go down the aisle');
 
     
 	let arr1=prompt('Enter the value',[]);
