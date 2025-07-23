@@ -74,6 +74,8 @@
 		n(452,1009);
 		*/
 		console.log(3223*56);
+console.log("Gone are the days when");
+
 
 		let d=y=>console.log(y);
 		d("Muia is the real legend!"); //invoking the function
