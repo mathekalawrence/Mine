@@ -78,6 +78,7 @@
 		*/
 		console.log(3223*56);
 console.log("Gone are the days when");
+console.log("Here we go");
 
 
 		let d=y=>console.log(y);
