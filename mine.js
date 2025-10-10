@@ -46,7 +46,7 @@
 		};
 		for(let prop in animal){
 			console.log(animal[prop]);
-		}
+		} 
 
 		let here=Object.keys(animal);
 		console.log(here);
@@ -121,4 +121,5 @@ console.log('Let us embrace it fully');
 
 
 	</script>
+
 
