@@ -14,7 +14,6 @@
 
 		}
 
-
 	</style>
 </head>
 <body>
@@ -121,5 +120,6 @@ console.log('Let us embrace it fully');
 
 
 	</script>
+
 
 
