@@ -7,7 +7,7 @@
 
 	<style type="text/css">
 		h2,h3{
-			text-align: center;
+			text-align: center; 
 			text
 		}
 		h3{
@@ -120,6 +120,7 @@ console.log('Let us embrace it fully');
 
 
 	</script>
+
 
 
 
